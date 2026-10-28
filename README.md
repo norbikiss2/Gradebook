@@ -1,0 +1,1 @@
+This is an instruction on how to calculate the averages of students easily.
